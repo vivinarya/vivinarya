@@ -1,5 +1,5 @@
 <h1 align="center">Hi , I'm vivin arya</h1>
-- I’m currently working on portfolio website
+- I’m currently working on ml projects
 
 - I’m currently learning **Html,css,javascript,react.js**
 
