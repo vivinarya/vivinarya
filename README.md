@@ -1,5 +1,5 @@
 <h1 align="center">Hi , I'm vivin arya</h1>
-- I’m currently working on ml projects
+- I’m currently working on ml projects and learning mern
 - How to reach me **vivinarya2@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
