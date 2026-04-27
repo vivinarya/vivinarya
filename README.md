@@ -1,5 +1,5 @@
 # 💫 About Me:
----<br><br>- 🔭 I’m currently working on **Repository Janitor** (AST-based technical debt automation)<br>- 👯 I’m looking to collaborate on **quant finance projects and agentic AI**<br>- 🌱 I’m currently learning **quant finance and agentic workflows**<br>- 💬 Ask me about **multi-agent systems, sports betting value engines, or cybersecurity**<br>- ⚡ Fun fact **I like playing football and messing with statistics**<br><br>---
+---<br><br>- 🔭 I’m currently working on **Repository Janitor** (AST-based technical debt automation)<br>- 👯 I’m looking to collaborate on **quant finance projects and agentic AI**<br>- 🌱 I’m currently learning **quant finance and agentic workflows**<br>- 💬 Ask me about **multi-agent systems,web projects and finance modelling **<br>- ⚡ Fun fact **I like playing football and messing with statistics**<br><br>---
 
 
 ## 🌐 Socials:
