@@ -1,5 +1,10 @@
-# 💫 About Me:
----<br><br>- 🔭 I’m currently working on **Repository Janitor** (AST-based technical debt automation)<br>- 👯 I’m looking to collaborate on **quant finance projects and agentic AI**<br>- 🌱 I’m currently learning **quant finance and agentic workflows**<br>- 💬 Ask me about **multi-agent systems,web projects and finance modelling **<br>- ⚡ Fun fact **I like playing football and messing with statistics**<br><br>---
+### About Me
+
+* **Current Focus:** Developing **Repository Janitor** (AST-based static analysis and technical debt automation) alongside research in **grid-intensity-adaptive neural network training** (carbon-aware layer freezing and quantization).
+* **Collaboration:** Open to collaborating on **multi-agent orchestration frameworks**, **quantitative sports/financial modeling**, and **distributed cloud infrastructure (AWS/Azure)**.
+* **Learning & Research:** Deepening expertise in **LLM trace observability**, **quantization methodologies**, and **resilient system architectures (AWS CDK/DORA)**.
+* **Ask Me About:** Multi-agent workflows, Python/C++/TypeScript systems design, discrete algorithms, and Poisson/Elo-based predictive modeling.
+* **Interests:** Football analytics, hardware/embedded logic, and quantitative modeling.
 
 
 ## 🌐 Socials:
