@@ -1,6 +1,6 @@
 ### About Me
 
-* **Current Focus:** Developing **Repository Janitor** (AST-based static analysis and technical debt automation) alongside research in **grid-intensity-adaptive neural network training** (carbon-aware layer freezing and quantization).
+* **Current Focus:** Developed **small-voice** offline, privacy-first, low-latency conversational voice assistant running completely on edge devices (e.g. Windows PC, macOS, or Nvidia Jetson Orin Nano) and devloping **DORA** An automated, event-driven Chaos Engineering framework designed to enforce and validate ICT operational resilience for financial entities under EU DORA (Digital Operational Resilience Act) regulations (Articles 24 & 25) and ISO 22301 standards. .
 * **Collaboration:** Open to collaborating on **multi-agent orchestration frameworks**, **quantitative sports/financial modeling**, and **distributed cloud infrastructure (AWS/Azure)**.
 * **Learning & Research:** Deepening expertise in **LLM trace observability**, **quantization methodologies**, and **resilient system architectures (AWS CDK/DORA)**.
 * **Ask Me About:** Multi-agent workflows, Python/C++/TypeScript systems design, discrete algorithms, and Poisson/Elo-based predictive modeling.
